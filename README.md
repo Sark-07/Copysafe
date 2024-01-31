@@ -6,3 +6,7 @@
 - Change number of datapoints according to your choice
 - Run streamlit run main.py
 - Enjoy
+
+
+Contributors:
+<a href="https://github.com/akshayxemo">@akshayxemo</a>

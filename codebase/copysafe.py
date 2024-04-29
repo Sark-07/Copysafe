@@ -11,7 +11,6 @@ from transformers import (
     MarianMTModel,
     MarianTokenizer,
 )
-from nltk.translate.bleu_score import sentence_bleu
 from sklearn.metrics import f1_score
 from langdetect import detect
 from tqdm import tqdm
